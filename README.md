@@ -4,6 +4,19 @@
 - Config Tailwind.css
   - npm install -D tailwindcss
     npx tailwindcss init
+- Header
+- Routing of App
+- Login Form
+- sign Up Form
+- Form Validation
+- useRef Hook
+- Firebase Setup
+- Deploying our app to production
+- Create signUp User Account
+- Implement Sign In user Api
+- Created Redux Store with userSlice
+- Implemented Sign out
+- Updated Profile
 
 # Features
 - Login/Sign Up
