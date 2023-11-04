@@ -1,3 +1,6 @@
+NetflixGPT Project WorkSample:
+
+
 # NetflixGPT
 - Create React App
   - npx create-react-app netflix-gpt
