@@ -1,4 +1,4 @@
-![NetflixGpt_MainContainer_SnapShot2](https://github.com/sweetyjangale4/netflix-GPT/assets/129608801/cb11c9bd-b9cb-448f-88d3-9f0c8e45eba9)# NetflixGPT
+# NetflixGPT
 - Create React App
   - npx create-react-app netflix-gpt
 - Config Tailwind.css
@@ -80,7 +80,7 @@
 ## NetflixGpt MainContainer SnapShot2
 ![NetflixGpt_MainContainer_SnapShot2](https://github.com/sweetyjangale4/netflix-GPT/assets/129608801/d5b4a014-9d0c-492c-a6f0-de17509fc672)
 
-## MoviList With HorizontalScroller
+## MovieList With HorizontalScroller
 ![MoviList_With_HorizontalScroller](https://github.com/sweetyjangale4/netflix-GPT/assets/129608801/f6c5078e-1624-44a8-bb6e-b234b099795b)
 
 ## NetFlixGPT Page with LanguageSelectBox
